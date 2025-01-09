@@ -4,7 +4,7 @@ Tutorial sederhana untuk mengimpor database melalui phpMyAdmin di localhost meng
 
 Langkah-Langkah:
 
-1. Buka phpMyAdmin di Localhost
+## 1. Buka phpMyAdmin di Localhost
 
   - Akses phpMyAdmin melalui browser: http://localhost/phpmyadmin
   
@@ -14,7 +14,7 @@ Langkah-Langkah:
   
   Password: (kosong, jika Anda belum mengatur password).
 
-2. Buat atau Pilih Database
+## 2. Buat atau Pilih Database
 
   - Jika database sudah ada:
   
@@ -28,7 +28,7 @@ Langkah-Langkah:
   
   - Klik Create.
 
-3. Impor File SQL
+## 3. Impor File SQL
 
   - Pilih tab Import di bagian atas.
   
@@ -36,7 +36,7 @@ Langkah-Langkah:
   
   - Pilih file database Anda (berformat .sql) dari komputer.
 
-4. Eksekusi Impor
+## 4. Eksekusi Impor
 
   - Klik tombol Go di bagian bawah halaman.
   
